@@ -6,7 +6,7 @@ body{
     background-repeat: no-repeat;
     
 }
-.Enter{
+#Enter{
     width: 177px;
     height: 300px;
     background-image: url("https://www.odt.co.nz/sites/default/files/story/2020/07/gettyimages-138310605.jpg");
@@ -21,7 +21,7 @@ body{
     
    
 }
-.input{
+#input{
     height: 20%;
     text-align: center;
     margin: 0 auto;
